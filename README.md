@@ -3,29 +3,29 @@
 
 ### Problem description
 
-ally as a product wants to start having presence as a web application. The aim of this web app is to eventually have a similar feature set than the mobile apps.
+ally as a product wants to start having presence as a web application. The aim of this web app is to eventually have a similar feature set to the mobile apps.
 
-The product team wants to have a first MVP, but our designers team is to busy working on other features with higher priority for 2 weeks.
+The product team wants to have a first MVP, but our design team is too busy working on other features with higher priority for the next 2 weeks.
 
 
 ### What we expect you to build
 
-You can find an example of a routes response included in this repository.
+You can find an example of a route search response from our API included in this repository.
 
-The UI should include:
+We would like you to build a UI that includes:
 
 1. A comprehensive overview of all the routes in a single page.
 
-2. Navigation to a detailed view of a single route, where more information is being showed.
+2. Navigation to a detailed view of a single route, where more information is made available.
 
-#### Advices
+#### Advice
 
-- You can take inspiration of our ally app in order to build the UI, but also feel free to impress us with your inspiration building your own UI.
+- You can take inspiration from our ally mobile apps in order to build the UI, but also feel free to impress us with your own ideas.
 
-- Build an extendable solution where you could potentially add more features on top of it. 
+- Build an extensible solution, such that you could potentially add more features on top of it.
 
 - Feel free to use modern tools and patterns to support your implementation.
 
 ## Code submission
 
-Please, send us a ZIP file with your solution privately together with the instructions on how to get the project started locally.
+Please send us a ZIP file with your solution privately, together with the instructions on how to get the project started locally.
