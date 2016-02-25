@@ -12,7 +12,9 @@ The product team wants to have a first MVP, but our designers team is to busy wo
 
 
 The UI should include:
+
 1. A comprehensive overview of all the routes in a single page.
+
 2. Navigation to a detailed view of a single route, where more information is being showed.
 
 #### Advices
