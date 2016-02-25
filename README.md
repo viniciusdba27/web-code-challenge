@@ -10,6 +10,7 @@ The product team wants to have a first MVP, but our designers team is to busy wo
 
 ### What we expect you to build
 
+You can find an example of a routes response included in this repository.
 
 The UI should include:
 
