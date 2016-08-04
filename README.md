@@ -3,7 +3,7 @@
 
 ### Problem description
 
-(ally)[https://www.allyapp.com/] as a product wants to start having presence as a web application. The aim of this web app is to eventually have a similar feature set to the mobile apps.
+[ally](https://www.allyapp.com/) as a product wants to start having presence as a web application. The aim of this web app is to eventually have a similar feature set to the mobile apps.
 
 The product team wants to have a first MVP, but our design team is too busy working on other features with higher priority for the next 2 weeks.
 
